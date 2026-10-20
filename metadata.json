@@ -1,0 +1,6 @@
+{
+  "name": "Trend Dropzz - Premium Kitchen & Home Accessories",
+  "description": "Discover high quality kitchen accessories and home decor accessories with direct WhatsApp ordering at Trend Dropzz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
